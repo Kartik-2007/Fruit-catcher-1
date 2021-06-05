@@ -1,1 +1,2 @@
-# Fruit-catcher-1
+Project by Kartik Khanna
+
